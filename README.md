@@ -10,7 +10,6 @@
 - C++
 
 **My environment:**
-- Windows 11 24H2
 - Ubuntu 24.04 WSL
 - Bash with Oh-myPosh
 - VIM, VSCode, JupyterLab
