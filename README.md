@@ -8,8 +8,8 @@
 - MSc in Machine Learning (Data Science) from Hellenic Open University
 ***
 **Preferred Languages:**
-- Python 
-- Java <img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
+- Python
+- Java
 - C++
 ***
 **My environment:**
