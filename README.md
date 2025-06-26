@@ -9,7 +9,7 @@
 ***
 **Preferred Languages:**
 - Python 
-- Java <img src="[https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png](https://cdn-icons-png.flaticon.com/512/226/226777.png)" width="5">
+- Java <img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
 - C++
 ***
 **My environment:**
