@@ -1,18 +1,20 @@
 ***
 ***
-### You may follow me on the rest of my [SOCIALS](https://linktr.ee/apostlkpl)
+### **Hey, I am Apostolis, and I am from Greece (based in Athens).**
+### My native language is Greek, by I tend to use English to communicate.
+### I'm also active on other Social Media platforms, so hit the [FOLLOW BUTTON](https://linktr.ee/apostlkpl)
 ***
 ***
-**Education:**
+**📑 Education:**
 - BSc in Mathematics (University of Athens)
 - MSc in Machine Learning (Data Science) from Hellenic Open University
 ***
-**Preferred Languages:**
+**⌨️ Preferred Languages:**
 - Python
 - Java
 - C++
 ***
-**My environment:**
+**💻 My environment:**
 - Ubuntu 24.04 WSL
 - Bash with Oh-myPosh
 - VIM, VSCode, JupyterLab
@@ -20,6 +22,12 @@
 **Favorite themes:**
 - [Dracula](https://github.com/dracula/dracula-theme)
 - [Catppuccin](https://github.com/catppuccin)
+***
+**🌿 Some of my interests are:**
+> Technology, Programming, Social Media, and Politics/Social Causes.
+***
+**😎 My hobbies include:**
+> Cinema/TV, walking/hiking, learning about current affairs, and consuming ungodly amounts of coffee ☕
 <!--
 **apostlkpl/apostlkpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
