@@ -13,6 +13,7 @@
 - BSc in Mathematics (University of Athens)
 - MSc in Machine Learning (Data Science) from Hellenic Open University
 ***
+***
 **⌨️ Preferred Languages:**
 
 [![Languages](https://skillicons.dev/icons?i=cpp,java,py,r)](https://skillicons.dev)
