@@ -10,9 +10,7 @@
 - MSc in Machine Learning (Data Science) from Hellenic Open University
 ***
 **⌨️ Preferred Languages:**
-- Python
-- Java
-- C++
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python)](https://skillicons.dev)
 ***
 **💻 My environment:**
 - Ubuntu 24.04 WSL
