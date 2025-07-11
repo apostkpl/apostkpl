@@ -10,12 +10,12 @@
 - MSc in Machine Learning (Data Science) from Hellenic Open University
 ***
 **⌨️ Preferred Languages:**
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=cpp,java,py,r)](https://skillicons.dev)
 ***
-**💻 My environment:**
-- Ubuntu 24.04 WSL
-- Bash with Oh-myPosh
-- VIM, VSCode, JupyterLab
+**💻 My environment and tools:**
+
+[![Tools](https://skillicons.dev/icons?i=ubuntu,bash,vim,vscode,git,pytorch,tensorflow)](https://skillicons.dev)
 ***
 **Favorite themes:**
 - [Dracula](https://github.com/dracula/dracula-theme)
