@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/47f5fac0-d19a-404a-8cf3-61bd3fca076c" height="170" width="1100" />
+<img src="https://github.com/user-attachments/assets/6a499b70-5cb5-4971-ae0e-bdb5ee067c27)" height="600" width="250" align="left" />
+![alexander-shatov-DHl49oyrn7Y-unsplash](https://github.com/user-attachments/assets/6a499b70-5cb5-4971-ae0e-bdb5ee067c27)
 
 ***
 ***
