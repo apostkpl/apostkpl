@@ -4,14 +4,13 @@
 
 ***
 ***
-### ..............................................................................................................................................
 ### 👋 Hey, I am Apostolis, and I am from Greece (based in Athens)
 ### 🎙️ My native language is Greek, by I tend to use English to communicate
 ### 📲 I'm also active on Social Media platforms, so hit the [FOLLOW BUTTON](https://linktr.ee/apostlkpl)
-### ..............................................................................................................................................
 ***
 ***
-
+***
+***
 **📑 Education:**
 <p style="text-align: center;">➡️ BSc in Mathematics (University of Athens)</p>
 <p style="text-align: center;">➡️ MSc in Machine Learning (Data Science) from Hellenic Open University</p>
