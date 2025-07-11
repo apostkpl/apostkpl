@@ -1,13 +1,10 @@
-<img src="https://github.com/user-attachments/assets/6a499b70-5cb5-4971-ae0e-bdb5ee067c27" height="400" width="300" align="left" />
+<img src="https://github.com/user-attachments/assets/6a499b70-5cb5-4971-ae0e-bdb5ee067c27" height="300" width="200" align="left" />
 
 ***
 ***
 ### **➡️ Hey, I am Apostolis, and I am from Greece (based in Athens) 🌐**
 ### ➡️ My native language is Greek, by I tend to use English to communicate 🦜
 ### ➡️ I'm also active on other Social Media platforms, so hit the [FOLLOW BUTTON](https://linktr.ee/apostlkpl) 📲
-
-
-
 ***
 ***
 **📑 Education:**
