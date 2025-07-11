@@ -14,6 +14,7 @@
 **📑 Education:**
 <p style="text-align: center;">➡️ BSc in Mathematics (University of Athens)</p>
 <p style="text-align: center;">➡️ MSc in Machine Learning (Data Science) from Hellenic Open University</p>
+
 ***
 ***
 ***
