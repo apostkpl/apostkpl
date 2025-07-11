@@ -1,5 +1,5 @@
 ***
-
+***
 <img src="https://github.com/user-attachments/assets/6a499b70-5cb5-4971-ae0e-bdb5ee067c27" height="450" width="300" align="left" />
 
 ***
@@ -10,11 +10,11 @@
 ***
 ***
 ***
-***
+
 **📑 Education:**
 <p style="text-align: center;">➡️ BSc in Mathematics (University of Athens)</p>
 <p style="text-align: center;">➡️ MSc in Machine Learning (Data Science) from Hellenic Open University</p>
-
+***
 ***
 ***
 **⌨️ Preferred Languages:**
