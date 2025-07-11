@@ -6,8 +6,7 @@
 ***
 ### 👋 Hey, I am Apostolis, and I am from Greece (based in Athens)
 ### 🎙️ My native language is Greek, by I tend to use English to communicate
-### 📲 I'm also active on other Social Media platforms,
-###     so hit the [FOLLOW BUTTON](https://linktr.ee/apostlkpl)
+#### 📲 I'm also active on other Social Media platforms, so hit the [FOLLOW BUTTON](https://linktr.ee/apostlkpl)
 ***
 ***
 **📑 Education:**
