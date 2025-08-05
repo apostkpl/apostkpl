@@ -21,7 +21,7 @@
 
 **⌨️ Preferred Languages:**
 
-[![Languages](https://skillicons.dev/icons?i=cpp,java,py,r)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,java,py,sqlite,node,r)](https://skillicons.dev)
 ***
 **💻 My environment and tools:**
 
