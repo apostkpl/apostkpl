@@ -32,7 +32,7 @@
 - [Catppuccin](https://github.com/catppuccin)
 ***
 **🌿 Some of my interests are:**
-> Technology, Programming, Social Media, and Politics/Social Causes.
+> Technology, Programming, Social Media, Environmentalism.
 ***
 **😎 My hobbies include:**
 > Cinema/TV, walking/hiking, learning about current affairs, and consuming ungodly amounts of coffee ☕
