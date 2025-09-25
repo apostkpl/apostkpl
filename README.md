@@ -21,11 +21,11 @@
 
 **⌨️ Preferred Languages:**
 
-[![Languages](https://skillicons.dev/icons?i=cpp,java,py,sqlite,js,r)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,java,py,sqlite,js,r,nodejs)](https://skillicons.dev)
 ***
 **💻 My environment and tools:**
 
-[![Tools](https://skillicons.dev/icons?i=ubuntu,bash,vim,vscode,git,pytorch,tensorflow)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=windows,ubuntu,bash,powershell,vim,vscode,git,sklearn,pytorch,tensorflow)](https://skillicons.dev)
 ***
 **Favorite themes:**
 - [Dracula](https://github.com/dracula/dracula-theme)
