@@ -6,7 +6,7 @@
 ***
 ### 👋 Hey, I am Apostolis, and I am from Greece (based in Athens)
 ### 🎙️ My native language is Greek, by I tend to use English to communicate
-### 📲 Follow me on other Platforms, hit the [FOLLOW BUTTON](https://linktr.ee/apostkpl)
+### 📲 Follow me on other Platforms, hit the [FOLLOW BUTTON](https://lnk.bio/apostolis.kp)
 ***
 ***
 ***
@@ -35,7 +35,7 @@
 > Technology, Programming, Social Media, Environmentalism.
 ***
 **😎 My hobbies include:**
-> Cinema/TV, walking/hiking, learning about current affairs, and consuming ungodly amounts of coffee ☕
+> Cinema/TV, walking/hiking, tech news, and consuming ungodly amounts of coffee ☕
 
 ***
 ***
