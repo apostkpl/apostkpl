@@ -10,9 +10,11 @@
 - __Education:__
     * _BSc in Mathematic, from the National and Kapodistrian University of Athens_
     * _MSc in Data Science and Machine Learning, from the Hellenic Open University_
-
+- __Interests:__ _Technology, Programming, Social Media, Environmentalism._
+- __Hobbies:__ _Cinema/TV, walking/hiking, tech news, and consuming ungodly amounts of coffee_ ☕
 <br>
 
+```
 public class introForMyself {
    // Personal Information:
    public final String name = "Apostolis Kopalidis";
@@ -25,6 +27,14 @@ public class introForMyself {
     };
 
     // My personal Setup:
-    public String currentSetup = "macOS/IntelliJ/Docker";
+    public String currentSetup = "Windows11/VSCode/MiniConda/JupyterLab/Powershell/Bash";
 
-
+   // My Social Media Links:
+   // --- Social Links (Immutable Map) ---
+   public final Map<String, String> connectWithMe = Map.of(
+    "Facebook", [https://www.facebook.com/apostolis.kp](https://www.facebook.com/apostolis.kp),
+    "LinkedIn", [https://www.linkedin.com/in/apostoliskp/](https://www.linkedin.com/in/apostoliskp/),
+    "Instagram", [https://www.instagram.com/apostolis__kp/](https://www.instagram.com/apostolis__kp/),
+    "Lnk.bio", [https://lnk.bio/apostolis.kp](https://lnk.bio/apostolis.kp)
+   );
+```
