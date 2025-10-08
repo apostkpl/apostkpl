@@ -15,6 +15,14 @@
 - __My Links:__ [Click me! 🙂](https://lnk.bio/apostolis.kp/)
 <br>
 
+- #### __My prefered languages:__
+  [![Languages](https://skillicons.dev/icons?i=cpp,java,py,sqlite,js,r,nodejs)](https://skillicons.dev)
+
+- #### __My prefered tools:__
+  [![Tools](https://skillicons.dev/icons?i=windows,ubuntu,debian,bash,powershell,vim,vscode,git,sklearn,pytorch,tensorflow)](https://skillicons.dev)
+
+<br>
+
 ***
 ***
 
