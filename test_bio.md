@@ -26,7 +26,7 @@
 ***
 ***
 
-### `__My Intro, Codified__`
+## `My Intro, Codified`
 
 ```
 public class introForMyself {
