@@ -1,6 +1,6 @@
 # _Hello World_
 
-### This is my GitHub intro
+### 'This is my GitHub intro'
 
 - __Full Name:__ _Apostolis Kopalidis_
 - __Based in:__ _Athens, Greece_
