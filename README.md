@@ -8,7 +8,7 @@
 - __Based in:__ _Athens, Greece_
 - __Languages:__ _Greek (native), English (proficient/C2), French (basic/A2)_
 - __Education:__
-    * _BSc in Mathematic, from the National and Kapodistrian University of Athens_
+    * _BSc in Mathematics, from the National and Kapodistrian University of Athens_
     * _MSc in Data Science and Machine Learning, from the Hellenic Open University_
 - __Interests:__ _Technology, Programming, Social Media, Environmentalism._
 - __Hobbies:__ _Cinema/TV, walking/hiking, tech news, and consuming ungodly amounts of coffee_ ☕
