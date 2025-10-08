@@ -10,3 +10,21 @@
 - __Education:__
     * _BSc in Mathematic, from the National and Kapodistrian University of Athens_
     * _MSc in Data Science and Machine Learning, from the Hellenic Open University_
+
+<br>
+
+public class introForMyself {
+   // Personal Information:
+   public final String name = "Apostolis Kopalidis";
+   public final String primaryFocus = "Backend Development / Data Science";
+
+   // Education:
+   public String[] education = {
+        "BSc Mathematics",
+        "MSc Data Science and Machine Learning"
+    };
+
+    // My personal Setup:
+    public String currentSetup = "macOS/IntelliJ/Docker";
+
+
