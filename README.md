@@ -35,7 +35,7 @@
 public class introForMyself {
    // Personal Information:
    public final String name = "Apostolis Kopalidis";
-   public final String primaryFocus = "Backend Development / Data Science";
+   public String primaryFocus = "Backend Development / Data Science";
 
    // Education:
    public String[] education = {
