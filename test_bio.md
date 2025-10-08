@@ -1,6 +1,6 @@
 # _Hello World_
 
-<img src="https://github.com/user-attachments/assets/6a499b70-5cb5-4971-ae0e-bdb5ee067c27" height="450" width="300" align="left" />
+<img src="https://github.com/user-attachments/assets/6a499b70-5cb5-4971-ae0e-bdb5ee067c27" height="150" width="90" align="right" />
 
 ### `This is my GitHub intro`
 
