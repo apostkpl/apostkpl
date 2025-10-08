@@ -12,6 +12,7 @@
     * _MSc in Data Science and Machine Learning, from the Hellenic Open University_
 - __Interests:__ _Technology, Programming, Social Media, Environmentalism._
 - __Hobbies:__ _Cinema/TV, walking/hiking, tech news, and consuming ungodly amounts of coffee_ ☕
+- __My Links:__ [Click me! 🙂](https://lnk.bio/apostolis.kp/)
 <br>
 
 ```
@@ -32,9 +33,9 @@ public class introForMyself {
    // My Social Media Links:
    // --- Social Links (Immutable Map) ---
    public final Map<String, String> connectWithMe = Map.of(
-    "Facebook", [https://www.facebook.com/apostolis.kp](https://www.facebook.com/apostolis.kp),
-    "LinkedIn", [https://www.linkedin.com/in/apostoliskp/](https://www.linkedin.com/in/apostoliskp/),
-    "Instagram", [https://www.instagram.com/apostolis__kp/](https://www.instagram.com/apostolis__kp/),
-    "Lnk.bio", [https://lnk.bio/apostolis.kp](https://lnk.bio/apostolis.kp)
+    "Facebook", https://www.facebook.com/apostolis.kp/,
+    "LinkedIn", https://www.linkedin.com/in/apostoliskp/,
+    "Instagram", https://www.instagram.com/apostolis__kp/,
+    "Lnk.bio", https://lnk.bio/apostolis.kp/
    );
 ```
