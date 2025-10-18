@@ -22,7 +22,8 @@
   [![Languages](https://skillicons.dev/icons?i=cpp,java,py,sqlite,js,r,nodejs)](https://skillicons.dev)
 
 - #### __My prefered tools:__
-  [![Tools](https://skillicons.dev/icons?i=windows,ubuntu,debian,bash,powershell,vim,vscode,git,sklearn,pytorch,tensorflow)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=windows,ubuntu,debian,bash,powershell,vim,vscode)](https://skillicons.dev)
+  [![Tools_2](git,,github,sklearn,pytorch,tensorflow,spring,wordpress)](https://skillicons.dev)
 
 <br>
 
