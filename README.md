@@ -23,6 +23,7 @@
 
 - #### __My prefered tools:__
   [![Tools](https://skillicons.dev/icons?i=windows,ubuntu,debian,bash,powershell,vim,vscode)](https://skillicons.dev)
+  
   [![Tools_2](https://skillicons.dev/icons?i=git,,github,sklearn,pytorch,tensorflow,spring,wordpress)](https://skillicons.dev)
 
 <br>
