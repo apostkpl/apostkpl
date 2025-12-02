@@ -12,7 +12,7 @@
     * _MSc in Data Science and Machine Learning, from the Hellenic Open University_
 - __Interests:__ _Technology, Programming, Social Media, Environmentalism._
 - __Hobbies:__ _Cinema/TV, walking/hiking, tech news, and consuming ungodly amounts of coffee_ ☕
-- __My Links:__ [Click me!](https://lnk.bio/apostolis.kp/)🙂
+- __My Links:__ 👉[Click me!](https://lnk.bio/apostolis.kp/)
 <br>
 
 ***
