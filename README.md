@@ -23,7 +23,7 @@
 
 - #### __My prefered tools:__
   - Operating Systems and Software:
-    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,vscode,vim,opensource)
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,android,vscode,vim,chrome,edge,opensource)
 
    - #### __Version control:__
      ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github)
@@ -33,6 +33,9 @@
 
   - #### __Developement Stack__
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,springdatajpa,nodejs,expressjs,laravel,wordpress,sqlite,mysql)
+
+  - #### __Deployment Stack:__
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,docker,apache,nginx,bash)
 
 <br>
 
