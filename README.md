@@ -10,8 +10,8 @@
 - __Education:__
     * _BSc in Mathematics, from the National and Kapodistrian University of Athens_
     * _MSc in Data Science and Machine Learning, from the Hellenic Open University_
-- __Interests:__ _Technology, Programming, Social Media, Environmentalism._
-- __Hobbies:__ _Cinema/TV, walking/hiking, tech news, and consuming ungodly amounts of coffee_ ☕
+- __Interests:__ Programming, _Technology, Social Media, Environmentalism_
+- __Hobbies:__ _Cinema/TV, walking/hiking, tech news, photography, and consuming ungodly amounts of coffee_ ☕
 - __My Links:__ 👉[Click me!](https://lnk.bio/apostolis.kp/)
 <br>
 
