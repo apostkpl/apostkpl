@@ -5,7 +5,7 @@
 ### `This is my GitHub intro`
 
 - __Full Name:__ _Apostolis Kopalidis_
-- __Based in:__ _Athens, Greece_
+- __Based in:__ _Greece_
 - __Languages:__ _Greek (native), English (proficient/C2), French (basic/A2)_
 - __Education:__
     * _BSc in Mathematics, from the National and Kapodistrian University of Athens_
@@ -30,29 +30,3 @@
 
 ***
 ***
-
-## `My Intro, Codified`
-
-```
-public class introForMyself {
-   // Personal Information:
-   public final String name = "Apostolis Kopalidis";
-   public String primaryFocus = "Backend Development / Data Science";
-
-   // Education:
-   public String[] education = {
-        "BSc Mathematics",
-        "MSc Data Science and Machine Learning"
-    };
-
-    // My personal Setup:
-    public String currentSetup = "Windows11/VSCode/MiniConda/JupyterLab/Powershell/Bash";
-
-   // My Social Media Links:
-   public final Map<String, String> connectWithMe = Map.of(
-    "Facebook", https://www.facebook.com/apostolis.kp/,
-    "LinkedIn", https://www.linkedin.com/in/apostoliskp/,
-    "Instagram", https://www.instagram.com/apostolis__kp/,
-    "Lnk.bio", https://lnk.bio/apostolis.kp/
-   );
-```
