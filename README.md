@@ -23,16 +23,16 @@
 
 - #### __My prefered tools:__
   - Operating Systems and Software:
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,vscode,vim,opensource)
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,vscode,vim,opensource)
 
    - #### __Version control:__
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github)
+     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github)
 
    - #### __Data Science Stack:__
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,jupyter,numpy,pandas,matplotlib,scikitlearn,tensorflow,pytorch)
+     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,jupyter,numpy,pandas,matplotlib,scikitlearn,tensorflow,pytorch)
 
   - #### __Developement Stack__
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,springdatajpa,nodejs,expressjs,laravel,wordpress,sqlite,mysql)
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,springdatajpa,nodejs,expressjs,laravel,wordpress,sqlite,mysql)
 
 <br>
 
