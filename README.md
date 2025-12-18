@@ -19,20 +19,20 @@
 ***
 
 - #### __My prefered languages:__
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,php,cpp,javascript,php,yew&titles=true)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,php,cpp,javascript,php&theme=light)
 
 - #### __My prefered tools:__
   - Operating Systems and Software:
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,vscode,vim,opensource,yew&titles=true)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,vscode,vim,opensource&theme=light)
 
    - Version control:
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,yew&titles=true)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github&theme=light)
 
    - Data Science Stack:
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,jupyter,numpy,pandas,matplotlib,scikitlearn,tensorflow,pytorch,yew&titles=true)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,jupyter,numpy,pandas,matplotlib,scikitlearn,tensorflow,pytorch&theme=light)
 
   - Developement Stack
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,springdatajpa,nodejs,expressjs,laravel,wordpress,sqlite,mysql,yew&titles=true)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,springdatajpa,nodejs,expressjs,laravel,wordpress,sqlite,mysql&theme=light)
 
 <br>
 
