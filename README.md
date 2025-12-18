@@ -23,7 +23,7 @@
 
 - #### __My prefered tools:__
    - #### __Operating Systems and Software:__
-    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,android,vscode,vim,chrome,edge,opensource)
+     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,android,vscode,vim,chrome,edge,opensource)
 
    - #### __Version control:__
      ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github)
