@@ -25,9 +25,6 @@
    - #### __Operating Systems and Software:__
      ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,android,vscode,vim,chrome,edge,opensource)
 
-   - #### __Version control:__
-     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github)
-
    - #### __Data Science Stack:__
      ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,jupyter,numpy,pandas,matplotlib,scikitlearn,tensorflow,pytorch)
 
@@ -36,6 +33,9 @@
 
   - #### __Deployment Stack:__
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,docker,apache,nginx,bash,mysql,mariadb)
+  
+   - #### __Version control:__
+     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github)
 
 <br>
 
