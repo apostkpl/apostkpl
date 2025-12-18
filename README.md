@@ -19,7 +19,7 @@
 ***
 
 - #### __My prefered languages:__
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,php,cpp,javascript,php)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,cpp,go,javascript,php)
 
 - #### __My prefered tools:__
    - #### __Operating Systems and Software:__
